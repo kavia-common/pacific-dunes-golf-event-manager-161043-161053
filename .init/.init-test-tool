@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/pacific-dunes-golf-event-manager-161043-161053/bandon_backend"
+}
